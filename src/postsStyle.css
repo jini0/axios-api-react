@@ -1,0 +1,26 @@
+.postTable {
+    border-collapse: collapse;
+    border: 3px solid pink;
+    margin: 0 auto;
+}
+.postTable tr {
+    border-bottom: 3px solid pink;
+}
+.postTable th {
+    border-right: 3px solid pink;
+    padding: 5px 0;
+    color: rgb(245, 67, 96);
+}
+.postTable td {
+    padding: 5px 10px;
+}
+#postBtn {
+    margin: 20px 0;
+    outline:  none;
+    border: none;
+    border-radius: 5px;
+    background: pink;
+    color: #fff;
+    padding: 5px 8px;
+    font-weight: bold;
+}
